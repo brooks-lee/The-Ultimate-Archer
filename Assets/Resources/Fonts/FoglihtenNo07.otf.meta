@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f544575c3a6be5c4881d884e744033a1
+timeCreated: 1503599674
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FoglihtenNo07
+  fontNames:
+  - FoglihtenNo07
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
